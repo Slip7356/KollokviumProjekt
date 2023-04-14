@@ -1,0 +1,15 @@
+D:\Dropbox\Public\Iskola\Tanmenetek\2022-2023\13sz\Vizsgaremek\Feladatkiosztás\_sources\Kollokvium\sqlImportProjekt\sqlImportProjekt\bin\Debug\sqlImportProjekt.exe.config
+D:\Dropbox\Public\Iskola\Tanmenetek\2022-2023\13sz\Vizsgaremek\Feladatkiosztás\_sources\Kollokvium\sqlImportProjekt\sqlImportProjekt\bin\Debug\sqlImportProjekt.exe
+D:\Dropbox\Public\Iskola\Tanmenetek\2022-2023\13sz\Vizsgaremek\Feladatkiosztás\_sources\Kollokvium\sqlImportProjekt\sqlImportProjekt\bin\Debug\sqlImportProjekt.pdb
+D:\Dropbox\Public\Iskola\Tanmenetek\2022-2023\13sz\Vizsgaremek\Feladatkiosztás\_sources\Kollokvium\sqlImportProjekt\sqlImportProjekt\obj\Debug\sqlImportProjekt.csproj.AssemblyReference.cache
+D:\Dropbox\Public\Iskola\Tanmenetek\2022-2023\13sz\Vizsgaremek\Feladatkiosztás\_sources\Kollokvium\sqlImportProjekt\sqlImportProjekt\obj\Debug\sqlImportProjekt.csproj.SuggestedBindingRedirects.cache
+D:\Dropbox\Public\Iskola\Tanmenetek\2022-2023\13sz\Vizsgaremek\Feladatkiosztás\_sources\Kollokvium\sqlImportProjekt\sqlImportProjekt\obj\Debug\sqlImportProjekt.csproj.CoreCompileInputs.cache
+D:\Dropbox\Public\Iskola\Tanmenetek\2022-2023\13sz\Vizsgaremek\Feladatkiosztás\_sources\Kollokvium\sqlImportProjekt\sqlImportProjekt\obj\Debug\sqlImportProjekt.exe
+D:\Dropbox\Public\Iskola\Tanmenetek\2022-2023\13sz\Vizsgaremek\Feladatkiosztás\_sources\Kollokvium\sqlImportProjekt\sqlImportProjekt\obj\Debug\sqlImportProjekt.pdb
+C:\tanulók\informatika\Szoftverfejlesztő 13.sz\VizsgaProjekt\Kollokvium\kollokvium\Kollokvium\sqlImportProjekt\sqlImportProjekt\bin\Debug\sqlImportProjekt.exe.config
+C:\tanulók\informatika\Szoftverfejlesztő 13.sz\VizsgaProjekt\Kollokvium\kollokvium\Kollokvium\sqlImportProjekt\sqlImportProjekt\bin\Debug\sqlImportProjekt.exe
+C:\tanulók\informatika\Szoftverfejlesztő 13.sz\VizsgaProjekt\Kollokvium\kollokvium\Kollokvium\sqlImportProjekt\sqlImportProjekt\bin\Debug\sqlImportProjekt.pdb
+C:\tanulók\informatika\Szoftverfejlesztő 13.sz\VizsgaProjekt\Kollokvium\kollokvium\Kollokvium\sqlImportProjekt\sqlImportProjekt\obj\Debug\sqlImportProjekt.csprojAssemblyReference.cache
+C:\tanulók\informatika\Szoftverfejlesztő 13.sz\VizsgaProjekt\Kollokvium\kollokvium\Kollokvium\sqlImportProjekt\sqlImportProjekt\obj\Debug\sqlImportProjekt.csproj.CoreCompileInputs.cache
+C:\tanulók\informatika\Szoftverfejlesztő 13.sz\VizsgaProjekt\Kollokvium\kollokvium\Kollokvium\sqlImportProjekt\sqlImportProjekt\obj\Debug\sqlImportProjekt.exe
+C:\tanulók\informatika\Szoftverfejlesztő 13.sz\VizsgaProjekt\Kollokvium\kollokvium\Kollokvium\sqlImportProjekt\sqlImportProjekt\obj\Debug\sqlImportProjekt.pdb
