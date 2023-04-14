@@ -594,9 +594,9 @@ app.put("/trips/:id", (req, res) => {
 });
 //#endregion trips
 
-//#region
+//#region vizsga
 app.get("/vizsga", (req, res) => {
-  let sql = `SELECT * FROM vizsga`;
+  let sql = `SELECT id, DATE_FORMAT(datum, '%Y.%m.%d %h:%i:%s')datum, targy FROM vizsga`;
 
   pool.getConnection(function (error, connection) {
     if (error) {
